@@ -4,7 +4,7 @@
 
 // अपना Telegram Channel Link यहाँ डालो
 
-const TELEGRAM_LINK = "https://t.me/+1nu04Rs3BKIxNmM9";
+const TELEGRAM_LINK = "https://t.me/+MpRBULLrTow1NDg1";
 
 
 // ==========================================
